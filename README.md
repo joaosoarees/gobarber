@@ -8,3 +8,5 @@
   - Express
   - Date-fns
   - Node.js
+  - JWT
+  - Bcrypt
